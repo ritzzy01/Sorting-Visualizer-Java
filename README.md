@@ -15,4 +15,12 @@ Sorting Visualizer is a Java-based application designed to visually demonstrate 
   <li>Quick Sort</li>
 </ul>
 <h2>Bubble Sort</h2>
-<img src="assests/BubbleSort.gif" alt="Bubble Sort Gif">
+<img src="assets/BubbleSort.gif" alt="Bubble Sort Gif" width="650px">
+<h2>Selection Sort</h2>
+<img src="assets/SelectionSort.gif" alt="Selection Sort Gif" width="650px">
+<h2>Insertion Sort</h2>
+<img src="assets/InsertionSort.gif" alt="Insertion Sort Gif" width="650px">
+<h2>Merge Sort</h2>
+<img src="assets/MergeSort.gif" alt="Merge Sort Gif" width="650px">
+<h2>Quick Sort</h2>
+<img src="assets/QuickSort.gif" alt="Quick Sort Gif" width="650px">
